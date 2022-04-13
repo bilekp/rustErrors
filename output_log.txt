@@ -1,0 +1,785 @@
+Initialize engine version: 2019.4.7f1 (e992b1a16e65)
+[Subsystems] Discovering subsystems at path Z:/home/patrick/.local/share/Steam/steamapps/common/Rust/RustClient_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x67df)
+    Vendor:   
+    VRAM:     8438 MB
+    Driver:   1.0
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+UnloadTime: 3.509300 ms
+Bootstrap Startup
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+Loading maps/maps.bundle
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssetBundleBackend:Load(String)
+<Start>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading shared/audio.bundle
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssetBundleBackend:Load(String)
+<Start>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading shared/content.bundle
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssetBundleBackend:Load(String)
+<Start>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading shared/items.preload.bundle
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssetBundleBackend:Load(String)
+<Start>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading shared/monuments.bundle
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssetBundleBackend:Load(String)
+<Start>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading shared/skinnables.preload.bundle
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssetBundleBackend:Load(String)
+<Start>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading shared/textures.bundle
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssetBundleBackend:Load(String)
+<Start>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading shared/textures.split.bundle
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssetBundleBackend:Load(String)
+<Start>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading shared/textures.split.split.bundle
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+AssetBundleBackend:Load(String)
+<Start>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System
+	Name: PATRICKEOS
+	OS:   Windows 10  (10.0.0) 64bit
+
+CPU
+	Model:  AMD Ryzen 7 2700X Eight-Core Processor
+	Cores:  16
+	Memory: 32624 MB
+
+GPU
+	Model:  NVIDIA GeForce RTX 2070 SUPER
+	API:    Direct3D 11.0 [level 11.1]
+	Memory: 8438 MB
+	SM:     50
+
+Process
+	Memory:   1129 MB
+
+Mono
+	Collects: 27
+	Memory:   11 MB
+
+
+
+Setting breakpad minidump AppID = 252490
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561197972359350 [API loaded no]
+SteamID: 76561197972359350 (Marx)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Rust.Platform.Steam.SteamPlatform:Initialize(IPlatformHooks)
+PlatformService:Initialize(IPlatformHooks)
+<Start>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+Manifest Metadata Loaded
+	22359 pooled strings
+	9784 prefab properties
+	389 effect categories
+	1295 entity names
+
+Command Line: "Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient.exe" "-logfile" "output_log.txt" "-eac-nop-loaded" 
+Command 'logfile' not found
+Command 'eac-nop-loaded' not found
+Command 'logfile' not found
+Command 'eac-nop-loaded' not found
+Config Loaded
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Loading Items Took: 1.7632888 seconds
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ItemManager:Initialize()
+<Start>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Building Items Took: 1.7837533 seconds / Items: 765 / Blueprints: 455
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ItemManager:Initialize()
+<Start>d__18:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+Error starting RazerChromaService: System.DllNotFoundException: Unable to load DLL 'CChromaEditorLibrary64': The specified module could not be found.
+  at Rust.RGB.Razer.RazerChromaService.Start () [0x00000] in <00000000000000000000000000000000>:0 
+  at Rust.RGB.SteelSeries.SteelSeriesGameSenseService..cctor () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Array.UnsafeStore[T] (T[] array, System.Int32 index, T value) [0x00000] in <00000000000000000000000000000000>:0 
+  at Rust.RGB.SteelSeries.SteelSeriesGameSenseService..cctor () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.Assertions.Assert.IsNotNull[T] (T value, System.String message) [0x00000] in <00000000000000000000000000000000>:0 
+  at Rust.RGB.RgbController.Worker () [0x00000] in <00000000000000000000000000000000>:0 
+  at UnityEngine.Display+DisplaysUpdatedDelegate.Invoke () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.Execute () [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Xml.Serialization.XmlSerializationWriteCallback.Invoke (System.Object o) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.ExecuteWithThreadLocal (System.Threading.Tasks.Task& currentTaskSlot) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.Tasks.Task.ExecuteEntry (System.Boolean bPreventDoubleExecution) [0x00000] in <00000000000000000000000000000000>:0 
+  at System.Threading.ThreadPoolWorkQueue.Dispatch () [0x00000] in <00000000000000000000000000000000>:0 
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Rust.RGB.SteelSeries.SteelSeriesGameSenseService:.cctor()
+System.Array:UnsafeStore(T[], Int32, T)
+Rust.RGB.SteelSeries.SteelSeriesGameSenseService:.cctor()
+UnityEngine.Assertions.Assert:IsNotNull(T, String)
+Rust.RGB.RgbController:Worker()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+System.Threading.Tasks.Task:Execute()
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Threading.Tasks.Task:ExecuteWithThreadLocal(Task&)
+System.Threading.Tasks.Task:ExecuteEntry(Boolean)
+System.Threading.ThreadPoolWorkQueue:Dispatch()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+Manifest Assets Loaded
+	112 skinnable objects
+Unloading 5 Unused Serialized files (Serialized files now loaded: 53)
+UnloadTime: 3.285900 ms
+Playing Video Z:/home/patrick/.local/share/Steam/steamapps/common/Rust/RustClient_Data/StreamingAssets/MenuVideo/moonpool.mp4
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+MenuBackgroundVideo:NextVideo()
+MenuBackgroundVideo:Awake()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+WindowsVideoMedia error 0x80004002 while reading Z:/home/patrick/.local/share/Steam/steamapps/common/Rust/RustClient_Data/StreamingAssets/MenuVideo/moonpool.mp4
+
+Context: Get video transform
+Error details: <Empty>
+Track types:
+   Audio Track, type: %01
+   Audio Track, type: %03
+   Video Track [320 x 240], type: AYUV
+   Video Track [320 x 240], type: NV12
+   Video Track [320 x 240], type: YV12
+   Video Track [320 x 240], type: YUY2
+   Video Track [320 x 240], type: IYUV
+   Video Track [320 x 240], type: I420
+   Video Track [320 x 240], type: %15
+ 
+(Filename:  Line: 3590)
+
+
+Unloading 135 unused Assets to reduce memory usage. Loaded Objects now: 85392.
+Total: 207.581500 ms (FindLiveObjects: 4.306800 ms CreateObjectMapping: 2.781700 ms MarkObjects: 200.277200 ms  DeleteObjects: 0.215100 ms)
+
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+Host Entry Lookup: play.deadlock.com
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Client:set_IsScrubbingDemo(Boolean)
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+UnityEngine.Texture:set_wrapMode(TextureWrapMode)
+<DoStartup>d__12:System.Collections.IEnumerator.Reset()
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+UnityEngine.Texture:set_wrapMode(TextureWrapMode)
+Steamworks.SteamVideo:.ctor()
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+Steamworks.Dispatch:ProcessCallback(CallbackMsg_t, Boolean)
+Steamworks.Dispatch:Frame(HSteamPipe)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Host Entry Found: 81.97.175.161
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Client:set_IsScrubbingDemo(Boolean)
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+UnityEngine.Texture:set_wrapMode(TextureWrapMode)
+<DoStartup>d__12:System.Collections.IEnumerator.Reset()
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+UnityEngine.Texture:set_wrapMode(TextureWrapMode)
+Steamworks.SteamVideo:.ctor()
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+Steamworks.Dispatch:ProcessCallback(CallbackMsg_t, Boolean)
+Steamworks.Dispatch:Frame(HSteamPipe)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Connecting: 81.97.175.161:1333 (attempt=0)
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Client:set_IsScrubbingDemo(Boolean)
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+UnityEngine.Texture:set_wrapMode(TextureWrapMode)
+<DoStartup>d__12:System.Collections.IEnumerator.Reset()
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback(ContextCallback, Object, Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run(Task, Boolean)
+System.Threading.Tasks.Task:FinishContinuations()
+System.Threading.Tasks.Task`1:TrySetResult(TResult)
+UnityEngine.Texture:set_wrapMode(TextureWrapMode)
+Steamworks.SteamVideo:.ctor()
+System.Xml.Serialization.XmlSerializationWriteCallback:Invoke(Object)
+System.Threading.ExecutionContext:RunInternal(ExecutionContext, ContextCallback, Object, Boolean)
+System.Runtime.CompilerServices.MoveNextRunner:Run()
+UnityEngine.DisplaysUpdatedDelegate:Invoke()
+Steamworks.Dispatch:ProcessCallback(CallbackMsg_t, Boolean)
+Steamworks.Dispatch:Frame(HSteamPipe)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Shader 'Particles/FXVille Blood World Lighting': fallback shader 'Paricles/Alpha Blended' not found
+Shader 'Effects/Explosions/Distortion/CullBack': fallback shader 'Effects/Distortion/Free/CullOff' not found
+Couldn't create a Convex Mesh from source mesh "patrol_helicopter_part02" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+UnityEngine.AssetBundle:LoadAsset(String)
+AssetBundleBackend:LoadAsset(String)
+FileSystemBackend:Load(String)
+GameManager:FindPrefab(String)
+<Run>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 91] 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "Old_Boat_GM" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+UnityEngine.AssetBundle:LoadAsset(String)
+AssetBundleBackend:LoadAsset(String)
+FileSystemBackend:Load(String)
+GameManager:FindPrefab(String)
+<Run>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 91] 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "ScrapHeliGibs_Part002" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+UnityEngine.AssetBundle:LoadAsset(String)
+AssetBundleBackend:LoadAsset(String)
+FileSystemBackend:Load(String)
+GameManager:FindPrefab(String)
+<Run>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 91] 
+(Filename:  Line: 91)
+
+Couldn't create a Convex Mesh from source mesh "ScrapHeliGibs_Part046" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+UnityEngine.AssetBundle:LoadAsset(String)
+AssetBundleBackend:LoadAsset(String)
+FileSystemBackend:Load(String)
+GameManager:FindPrefab(String)
+<Run>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 91] 
+(Filename:  Line: 91)
+
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+The referenced script on this Behaviour (Game Object 'effect - FXAA') is missing!
+UnityEngine.AssetBundle:LoadAsset(String)
+AssetBundleBackend:LoadAsset(String)
+FileSystemBackend:Load(String)
+GameManager:FindPrefab(String)
+<Run>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+PrefabPreProcess:Process(String, GameObject)
+GameManager:FindPrefab(String)
+<Run>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'effect - FXAA') is missing!
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+PrefabPreProcess:Process(String, GameObject)
+GameManager:FindPrefab(String)
+<Run>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'effect - FXAA') is missing!
+UnityEngine.Object:Instantiate(Object, Transform, Boolean)
+UnityEngine.Object:Instantiate(T, Transform, Boolean)
+PrefabPreProcess:Process(String, GameObject)
+GameManager:FindPrefab(String)
+<Run>d__4:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 334] 
+(Filename:  Line: 334)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 53)
+UnloadTime: 32.962700 ms
+
+Unloading 118797 unused Assets to reduce memory usage. Loaded Objects now: 2517585.
+Total: 1173.281900 ms (FindLiveObjects: 119.934900 ms CreateObjectMapping: 154.430700 ms MarkObjects: 865.256000 ms  DeleteObjects: 33.659100 ms)
+
+WARNING: Shader Unsupported: 'Hidden/ReflectionProbeEx/Time of Day/Moon' - All passes removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+Generating procedural map of size 4500 with seed 372956784
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<InitCoroutine>d__15:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+<DoClientConnected>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[0.4s] Loading World
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TimerSwitch:get_HasMenuOptions()
+<InitCoroutine>d__15:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - All passes removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+ERROR: Shader Hidden/Nature/Terrain/Utilities shader is not supported on this GPU (none of subshaders/fallbacks are suitable)
+Shader 'Nature/Terrain/Diffuse': dependency 'AddPassShader' shader 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' not found
+Shader 'Hidden/TerrainEngine/Splatmap/Standard-AddPass': fallback shader 'Hidden/TerrainEngine/Splatmap/Diffuse-AddPass' not found
+Renderer 'keypad_LOD0' is registered with more than one LODGroup ('keypad' and 'keypad').
+GameManager:CreatePrefab(String, Vector3, Quaternion, Vector3, Boolean)
+Prefab:Spawn(Vector3, Quaternion, Vector3, Boolean)
+World:Spawn(String, Prefab, Vector3, Quaternion, Vector3)
+World:Spawn(PrefabData)
+<Spawn>d__67:MoveNext()
+<InitCoroutine>d__15:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 185] 
+(Filename:  Line: 185)
+
+Renderer 'keypad_LOD1' is registered with more than one LODGroup ('keypad' and 'keypad').
+GameManager:CreatePrefab(String, Vector3, Quaternion, Vector3, Boolean)
+Prefab:Spawn(Vector3, Quaternion, Vector3, Boolean)
+World:Spawn(String, Prefab, Vector3, Quaternion, Vector3)
+World:Spawn(PrefabData)
+<Spawn>d__67:MoveNext()
+<InitCoroutine>d__15:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 185] 
+(Filename:  Line: 185)
+
+Renderer 'keypad_LOD2' is registered with more than one LODGroup ('keypad' and 'keypad').
+GameManager:CreatePrefab(String, Vector3, Quaternion, Vector3, Boolean)
+Prefab:Spawn(Vector3, Quaternion, Vector3, Boolean)
+World:Spawn(String, Prefab, Vector3, Quaternion, Vector3)
+World:Spawn(PrefabData)
+<Spawn>d__67:MoveNext()
+<InitCoroutine>d__15:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 185] 
+(Filename:  Line: 185)
+
+Renderer 'keypad_LOD0' is registered with more than one LODGroup ('keypad' and 'keypad').
+GameManager:CreatePrefab(String, Vector3, Quaternion, Vector3, Boolean)
+Prefab:Spawn(Vector3, Quaternion, Vector3, Boolean)
+World:Spawn(String, Prefab, Vector3, Quaternion, Vector3)
+World:Spawn(PrefabData)
+<Spawn>d__67:MoveNext()
+<InitCoroutine>d__15:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 185] 
+(Filename:  Line: 185)
+
+Renderer 'keypad_LOD1' is registered with more than one LODGroup ('keypad' and 'keypad').
+GameManager:CreatePrefab(String, Vector3, Quaternion, Vector3, Boolean)
+Prefab:Spawn(Vector3, Quaternion, Vector3, Boolean)
+World:Spawn(String, Prefab, Vector3, Quaternion, Vector3)
+World:Spawn(PrefabData)
+<Spawn>d__67:MoveNext()
+<InitCoroutine>d__15:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 185] 
+(Filename:  Line: 185)
+
+Renderer 'keypad_LOD2' is registered with more than one LODGroup ('keypad' and 'keypad').
+GameManager:CreatePrefab(String, Vector3, Quaternion, Vector3, Boolean)
+Prefab:Spawn(Vector3, Quaternion, Vector3, Boolean)
+World:Spawn(String, Prefab, Vector3, Quaternion, Vector3)
+World:Spawn(PrefabData)
+<Spawn>d__67:MoveNext()
+<InitCoroutine>d__15:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+[ line 185] 
+(Filename:  Line: 185)
+
+[45.3s] Spawning World
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TimerSwitch:get_HasMenuOptions()
+<InitCoroutine>d__15:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[8.0s] Processing World
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TimerSwitch:get_HasMenuOptions()
+<InitCoroutine>d__15:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[0.7s] Finalizing World
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TimerSwitch:get_HasMenuOptions()
+<InitCoroutine>d__15:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 53)
+[3.5s] Cleaning Up
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+TimerSwitch:get_HasMenuOptions()
+<InitCoroutine>d__15:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 278 unused Assets to reduce memory usage. Loaded Objects now: 5199170.
+Total: 2180.521500 ms (FindLiveObjects: 326.772100 ms CreateObjectMapping: 141.071900 ms MarkObjects: 1708.586100 ms  DeleteObjects: 4.090600 ms)
+
+Destroyed 2423 map networkables
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Client:DestroyNetworkables()
+<DoClientConnected>d__39:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Game created! type was : assets/prefabs/gamemodes/vanilla.prefab
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+BaseNetworkable:ClientSpawn(Entity)
+Client:CreateOrUpdateEntity(Entity, Int64)
+Client:OnEntities(Message)
+Client:OnNetworkMessage(Message)
+Facepunch.Network.Raknet.Client:HandleMessage()
+Facepunch.Network.Raknet.Client:Cycle()
+Client:Update()
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+Curl error 51: Cert verify failed: UNITYTLS_X509VERIFY_FLAG_CN_MISMATCH
+ 
+(Filename:  Line: 813)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;Z:\home\patrick\.local\share\Steam\steamapps\common\Rust;Z:\home\patrick\.local\share\Steam\steamapps\common\Rust;C:\windows;C:\windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'steamuser'
+OS-Version: 10.0.0
+Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient.exe:RustClient.exe (0000000140000000), size: 667648 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient.exe', fileVersion: 2019.4.7.37553
+C:\windows\system32\ntdll.dll:ntdll.dll (0000000170000000), size: 659456 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\ntdll.dll', fileVersion: 6.1.7601.24059
+C:\windows\system32\kernel32.dll:kernel32.dll (000000007B600000), size: 2170880 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\kernel32.dll', fileVersion: 10.0.19043.1466
+C:\windows\system32\kernelbase.dll:kernelbase.dll (000000007B000000), size: 888832 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\kernelbase.dll'
+Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\UnityPlayer.dll:UnityPlayer.dll (0000000180000000), size: 26836992 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\UnityPlayer.dll', fileVersion: 2019.4.7.37553
+C:\windows\system32\USER32.dll:USER32.dll (000000023D820000), size: 2412544 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\USER32.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\advapi32.dll:advapi32.dll (0000000330260000), size: 262144 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\advapi32.dll', fileVersion: 10.0.10240.16384
+C:\windows\system32\msvcrt.dll:msvcrt.dll (00000001C8DB0000), size: 614400 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\msvcrt.dll', fileVersion: 7.0.2600.2180
+C:\windows\system32\sechost.dll:sechost.dll (000000032A700000), size: 172032 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\sechost.dll'
+C:\windows\system32\ucrtbase.dll:ucrtbase.dll (00000003AF670000), size: 782336 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\ucrtbase.dll', fileVersion: 10.0.14393.2247
+C:\windows\system32\gdi32.dll:gdi32.dll (000000026B4C0000), size: 499712 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\gdi32.dll', fileVersion: 10.0.0.0
+C:\windows\system32\win32u.dll:win32u.dll (0000000375610000), size: 229376 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\win32u.dll'
+C:\windows\system32\setupapi.dll:setupapi.dll (000000021A7E0000), size: 479232 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\setupapi.dll'
+C:\windows\system32\rpcrt4.dll:rpcrt4.dll (0000000231AE0000), size: 532480 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\rpcrt4.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\version.dll:version.dll (00000002F1FA0000), size: 57344 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\version.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\ole32.dll:ole32.dll (00000002E8F10000), size: 1155072 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\ole32.dll', fileVersion: 10.0.0.0
+C:\windows\system32\combase.dll:combase.dll (0000000327020000), size: 339968 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\combase.dll'
+C:\windows\system32\SHLWAPI.dll:SHLWAPI.dll (00000002E3540000), size: 331776 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\SHLWAPI.dll', fileVersion: 6.0.2800.1692
+C:\windows\system32\shcore.dll:shcore.dll (00000003126F0000), size: 102400 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\shcore.dll'
+C:\windows\system32\SHELL32.dll:SHELL32.dll (00000001C69E0000), size: 9547776 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\SHELL32.dll', fileVersion: 6.0.2900.6242
+C:\windows\system32\OPENGL32.dll:OPENGL32.dll (000000007A850000), size: 1855488 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\OPENGL32.dll', fileVersion: 5.1.2600.2082
+C:\windows\system32\WINMM.dll:WINMM.dll (00000003B8F00000), size: 790528 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\WINMM.dll'
+C:\windows\system32\msacm32.dll:msacm32.dll (00000001C8B40000), size: 131072 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\msacm32.dll'
+C:\windows\system32\OLEAUT32.dll:OLEAUT32.dll (00000002739C0000), size: 1273856 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\OLEAUT32.dll', fileVersion: 6.0.6001.18000
+C:\windows\system32\IMM32.dll:IMM32.dll (00000003AFD00000), size: 106496 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\IMM32.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\WINHTTP.dll:WINHTTP.dll (0000000358120000), size: 282624 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\WINHTTP.dll', fileVersion: 5.1.2600.2180
+C:\windows\system32\jsproxy.dll:jsproxy.dll (0000000346BA0000), size: 135168 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\jsproxy.dll'
+C:\windows\system32\ws2_32.dll:ws2_32.dll (00000001EC2B0000), size: 151552 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\ws2_32.dll', fileVersion: 5.1.2600.5512
+C:\windows\system32\bcrypt.dll:bcrypt.dll (00000002D4D40000), size: 94208 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\bcrypt.dll', fileVersion: 6.0.6000.16386
+C:\windows\system32\HID.DLL:HID.DLL (00000001F51E0000), size: 65536 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\HID.DLL', fileVersion: 10.0.0.0
+C:\windows\system32\CRYPT32.dll:CRYPT32.dll (00000001DD3F0000), size: 839680 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\CRYPT32.dll', fileVersion: 5.131.2600.1243
+C:\windows\system32\api-ms-win-core-synch-l1-2-0.dll:api-ms-win-core-synch-l1-2-0.dll (000000030C980000), size: 32768 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-core-synch-l1-2-0.dll'
+C:\windows\system32\api-ms-win-core-fibers-l1-1-1.dll:api-ms-win-core-fibers-l1-1-1.dll (00000001D97A0000), size: 28672 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-core-fibers-l1-1-1.dll'
+C:\windows\system32\api-ms-win-core-localization-l1-2-1.dll:api-ms-win-core-localization-l1-2-1.dll (0000000351680000), size: 32768 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-core-localization-l1-2-1.dll'
+C:\windows\system32\api-ms-win-core-winrt-l1-1-0.dll:api-ms-win-core-winrt-l1-1-0.dll (00000002BA290000), size: 32768 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-core-winrt-l1-1-0.dll'
+C:\windows\system32\api-ms-win-core-com-l1-1-1.dll:api-ms-win-core-com-l1-1-1.dll (0000000316CE0000), size: 36864 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-core-com-l1-1-1.dll'
+C:\windows\system32\api-ms-win-core-winrt-string-l1-1-0.dll:api-ms-win-core-winrt-string-l1-1-0.dll (000000025CF30000), size: 32768 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-core-winrt-string-l1-1-0.dll'
+C:\windows\system32\winex11.drv:winex11.drv (00007F902DC30000), size: 729088 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\winex11.drv', fileVersion: 10.0.0.0
+Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\GameAssembly.dll:GameAssembly.dll (0000000060F70000), size: 55218176 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\GameAssembly.dll'
+C:\windows\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (0000000240030000), size: 184320 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\IPHLPAPI.DLL', fileVersion: 5.1.2600.2180
+C:\windows\system32\dnsapi.dll:dnsapi.dll (000000029CFC0000), size: 90112 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\dnsapi.dll', fileVersion: 5.2.3790.4318
+C:\windows\system32\nsi.dll:nsi.dll (000000028DFA0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\nsi.dll'
+C:\windows\system32\api-ms-win-core-string-l1-1-0.dll:api-ms-win-core-string-l1-1-0.dll (0000000226310000), size: 28672 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-core-string-l1-1-0.dll'
+C:\windows\system32\api-ms-win-core-datetime-l1-1-1.dll:api-ms-win-core-datetime-l1-1-1.dll (000000029EA80000), size: 28672 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-core-datetime-l1-1-1.dll'
+C:\windows\system32\api-ms-win-core-localization-obsolete-l1-2-0.dll:api-ms-win-core-localization-obsolete-l1-2-0.dll (00000002FA030000), size: 28672 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-core-localization-obsolete-l1-2-0.dll'
+C:\windows\system32\api-ms-win-core-sysinfo-l1-2-1.dll:api-ms-win-core-sysinfo-l1-2-1.dll (000000028EBE0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-core-sysinfo-l1-2-1.dll'
+Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\GfxPluginDLSSNative.dll:GfxPluginDLSSNative.dll (00000000678D0000), size: 167936 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\GfxPluginDLSSNative.dll'
+C:\windows\system32\MSVCP140.dll:MSVCP140.dll (0000000360E10000), size: 909312 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\MSVCP140.dll'
+C:\windows\system32\VCRUNTIME140.dll:VCRUNTIME140.dll (000000026ED50000), size: 49152 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\VCRUNTIME140.dll'
+C:\windows\system32\api-ms-win-crt-heap-l1-1-0.dll:api-ms-win-crt-heap-l1-1-0.dll (000000039B510000), size: 32768 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-crt-heap-l1-1-0.dll'
+C:\windows\system32\api-ms-win-crt-stdio-l1-1-0.dll:api-ms-win-crt-stdio-l1-1-0.dll (000000030A2C0000), size: 36864 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-crt-stdio-l1-1-0.dll'
+C:\windows\system32\api-ms-win-crt-string-l1-1-0.dll:api-ms-win-crt-string-l1-1-0.dll (000000033EA00000), size: 36864 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-crt-string-l1-1-0.dll'
+C:\windows\system32\api-ms-win-crt-time-l1-1-0.dll:api-ms-win-crt-time-l1-1-0.dll (000000028BA60000), size: 28672 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-crt-time-l1-1-0.dll'
+C:\windows\system32\api-ms-win-crt-runtime-l1-1-0.dll:api-ms-win-crt-runtime-l1-1-0.dll (0000000262250000), size: 36864 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-crt-runtime-l1-1-0.dll'
+C:\windows\system32\concrt140.dll:concrt140.dll (00000003871C0000), size: 151552 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\concrt140.dll'
+Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\GfxPluginNVIDIAReflex.dll:GfxPluginNVIDIAReflex.dll (0000000067900000), size: 81920 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\GfxPluginNVIDIAReflex.dll'
+C:\windows\system32\api-ms-win-crt-utility-l1-1-0.dll:api-ms-win-crt-utility-l1-1-0.dll (00000001CD860000), size: 32768 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-crt-utility-l1-1-0.dll'
+C:\windows\system32\msasn1.dll:msasn1.dll (00000003B5000000), size: 77824 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\msasn1.dll'
+C:\windows\system32\cryptnet.dll:cryptnet.dll (00000002D1070000), size: 102400 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\cryptnet.dll'
+C:\windows\system32\d3d11.dll:d3d11.dll (0000000359050000), size: 2981888 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\d3d11.dll', fileVersion: 10.0.17763.1
+C:\windows\system32\vulkan-1.dll:vulkan-1.dll (00000003785E0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\vulkan-1.dll', fileVersion: 1.0.0.0
+C:\windows\system32\winevulkan.dll:winevulkan.dll (00000003B6DC0000), size: 139264 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\winevulkan.dll', fileVersion: 10.0.0.0
+C:\windows\system32\dxgi.dll:dxgi.dll (00000002EDF00000), size: 2015232 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\dxgi.dll', fileVersion: 10.0.17763.1
+C:\windows\system32\wineopenxr.dll:wineopenxr.dll (00007F902C6D0000), size: 196608 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\wineopenxr.dll'
+C:\windows\system32\wbem\wbemprox.dll:wbemprox.dll (00000002419A0000), size: 262144 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\wbem\wbemprox.dll'
+C:\windows\system32\winspool.drv:winspool.drv (00000001C4EE0000), size: 196608 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\winspool.drv', fileVersion: 5.1.2600.2180
+C:\windows\system32\mmdevapi.dll:mmdevapi.dll (0000000336850000), size: 176128 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\mmdevapi.dll'
+C:\windows\system32\winepulse.drv:winepulse.drv (0000000236370000), size: 184320 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\winepulse.drv'
+C:\windows\system32\api-ms-win-appmodel-runtime-l1-1-2.dll:api-ms-win-appmodel-runtime-l1-1-2.dll (00000000679A0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-appmodel-runtime-l1-1-2.dll'
+C:\windows\system32\xinput1_3.dll:xinput1_3.dll (0000000253CC0000), size: 77824 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\xinput1_3.dll', fileVersion: 9.15.779.0
+C:\windows\system32\rsaenh.dll:rsaenh.dll (00000002DE970000), size: 204800 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\rsaenh.dll', fileVersion: 5.1.2600.2180
+Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\RustNative.dll:RustNative.dll (00000001678A0000), size: 1617920 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\RustNative.dll'
+C:\windows\system32\PSAPI.DLL:PSAPI.DLL (0000000316370000), size: 45056 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\PSAPI.DLL', fileVersion: 5.1.2600.3264
+Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (0000000078D80000), size: 311296 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\steam_api64.dll', fileVersion: 6.91.21.57
+C:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (0000000167A30000), size: 22147072 (result: 0), SymType: '-deferred-', PDB: 'C:\Program Files (x86)\Steam\steamclient64.dll', fileVersion: 7.15.2.67
+C:\windows\system32\lsteamclient.dll:lsteamclient.dll (00007F8F55410000), size: 3317760 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\lsteamclient.dll'
+C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (0000000168F50000), size: 1953792 (result: 0), SymType: '-deferred-', PDB: 'C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll', fileVersion: 7.15.2.67
+Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\sqlite3.dll:sqlite3.dll (000000016DDB0000), size: 1032192 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\sqlite3.dll'
+Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\easyanticheat.dll:easyanticheat.dll (000000007D330000), size: 819200 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\easyanticheat.dll', fileVersion: 2.0.0.0
+C:\windows\system32\WINTRUST.dll:WINTRUST.dll (000000007B5A0000), size: 163840 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\WINTRUST.dll', fileVersion: 6.1.7601.23769
+C:\windows\system32\VCRUNTIME140_1.dll:VCRUNTIME140_1.dll (00000002F7F20000), size: 57344 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\VCRUNTIME140_1.dll'
+C:\windows\system32\api-ms-win-crt-convert-l1-1-0.dll:api-ms-win-crt-convert-l1-1-0.dll (0000000350A30000), size: 36864 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-crt-convert-l1-1-0.dll'
+C:\windows\system32\api-ms-win-crt-filesystem-l1-1-0.dll:api-ms-win-crt-filesystem-l1-1-0.dll (0000000344840000), size: 32768 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-crt-filesystem-l1-1-0.dll'
+C:\windows\system32\api-ms-win-crt-math-l1-1-0.dll:api-ms-win-crt-math-l1-1-0.dll (0000000360A80000), size: 40960 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-crt-math-l1-1-0.dll'
+C:\windows\system32\mfplat.dll:mfplat.dll (00000003A6D40000), size: 397312 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\mfplat.dll'
+C:\windows\system32\propsys.dll:propsys.dll (0000000228450000), size: 176128 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\propsys.dll'
+C:\windows\system32\rtworkq.dll:rtworkq.dll (0000000335260000), size: 73728 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\rtworkq.dll'
+C:\windows\system32\mfreadwrite.dll:mfreadwrite.dll (0000000319900000), size: 196608 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\mfreadwrite.dll'
+C:\windows\system32\Mf.dll:Mf.dll (00000001669C0000), size: 430080 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\Mf.dll'
+C:\windows\system32\winegstreamer.dll:winegstreamer.dll (00000002C83B0000), size: 401408 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\winegstreamer.dll', fileVersion: 0.0.1.0
+C:\windows\system32\atl100.dll:atl100.dll (00000001C1EF0000), size: 180224 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\atl100.dll'
+C:\windows\system32\quartz.dll:quartz.dll (0000000341D30000), size: 843776 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\quartz.dll', fileVersion: 6.5.1.902
+C:\windows\system32\dsound.dll:dsound.dll (0000000236DF0000), size: 372736 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\dsound.dll', fileVersion: 5.3.1.904
+C:\windows\system32\msvfw32.dll:msvfw32.dll (000000039A620000), size: 147456 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\msvfw32.dll'
+C:\windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef\comctl32.dll:comctl32.dll (00000002BB750000), size: 1323008 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\winsxs\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.2600.2982_none_deadbeef\comctl32.dll', fileVersion: 5.81.4704.1100
+C:\windows\system32\devenum.dll:devenum.dll (00000003AD720000), size: 192512 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\devenum.dll', fileVersion: 6.5.1.902
+C:\windows\system32\avicap32.dll:avicap32.dll (00000003A77E0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\avicap32.dll'
+C:\windows\system32\msdmo.dll:msdmo.dll (000000034ABC0000), size: 135168 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\msdmo.dll', fileVersion: 6.5.1.900
+C:\windows\system32\wininet.dll:wininet.dll (00000003A0440000), size: 536576 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\wininet.dll', fileVersion: 8.0.7601.17601
+C:\windows\system32\mpr.dll:mpr.dll (000000024F470000), size: 126976 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\mpr.dll', fileVersion: 5.0.2195.6611
+C:\windows\system32\mferror.dll:mferror.dll (000000023D7E0000), size: 245760 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\mferror.dll'
+Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\RakNet.dll:RakNet.dll (000000016FC30000), size: 360448 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\RakNet.dll'
+C:\windows\system32\api-ms-win-appmodel-runtime-l1-1-1.dll:api-ms-win-appmodel-runtime-l1-1-1.dll (000000024DC40000), size: 32768 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\api-ms-win-appmodel-runtime-l1-1-1.dll'
+Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\Renderer.dll:Renderer.dll (000000016E770000), size: 356352 (result: 0), SymType: '-deferred-', PDB: 'Z:\home\patrick\.local\share\Steam\steamapps\common\Rust\RustClient_Data\Plugins\x86_64\Renderer.dll'
+C:\windows\system32\dbghelp.dll:dbghelp.dll (0000000171B50000), size: 405504 (result: 0), SymType: '-deferred-', PDB: 'C:\windows\system32\dbghelp.dll', fileVersion: 6.1.7601.17514
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x0000000180599E64 (unityplayer) UnityMain
+0x0000000180602B91 (unityplayer) UnityMain
+0x00000001805E8FC6 (unityplayer) UnityMain
+0x00000001805F2C11 (unityplayer) UnityMain
+0x00000001807936D7 (unityplayer) UnityMain
+0x00000001807855A7 (unityplayer) UnityMain
+0x0000000180785643 (unityplayer) UnityMain
+0x0000000180787A43 (unityplayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Invalid handle.' (Address: 000000018053FABE)
+0x000000018053FABE (unityplayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Success.' (Address: 000000018053E81A)
+0x000000018053E81A (unityplayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Success.' (Address: 00000001805428B8)
+0x00000001805428B8 (unityplayer) (function-name not available)
+0x00000001805463BB (unityplayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Invalid handle.' (Address: 00000001400011F2)
+0x00000001400011F2 (rustclient) (function-name not available)
+0x000000007B62C999 (kernel32) BaseThreadInitThunk
+0x000000017005F1E3 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/users/steamuser/Temp/Facepunch Studios LTD/Rust/Crashes
